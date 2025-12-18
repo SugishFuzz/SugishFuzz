@@ -2,5 +2,4 @@
 
 
 
-- 🔭 I’m currently working on Semester project
-- 
+- 🔭 I’m currently working on Semester project.
